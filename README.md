@@ -1,0 +1,26 @@
+## Hi there 👋
+
+<!--
+**makhmudovamunira/makhmudovamunira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+# 👋 Hi, I'm Munira Makhmudova! 
+## 💻 Data Scientist | AI & Deep Learning Enthusiast
+- 🔭 I’m currently working on AI-based classification models  
+- 🌱 I’m learning Back-End Development & Machine Learning  
+- 👨‍💻 Tech Stack: Python, FastAI, PyTorch, PostgreSQL, Spring Boot  
+
+📫 **Contact Me**:  
+[![GitHub](https://img.shields.io/badge/GitHub-makhmudovamunira-blue?style=for-the-badge&logo=github)](https://github.com/makhmudovamunira)  
+[![Email](https://img.shields.io/badge/Email-makhmudovamuni007@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:makhmudovamuni007@gmail.com)
